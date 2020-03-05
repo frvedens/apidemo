@@ -19,5 +19,5 @@ public class FredAPI {
 	public DadosRetorno getDados() {
 		return dados.carregarDados();
 	}
-
+// Agora está no git
 }
