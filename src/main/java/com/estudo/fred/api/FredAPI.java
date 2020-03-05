@@ -20,4 +20,5 @@ public class FredAPI {
 		return dados.carregarDados();
 	}
 // Agora está no git
+	// segundo comentário 
 }
